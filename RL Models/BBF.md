@@ -1,0 +1,1 @@
+[*Bigger, Better, Faster: Human-level Atari with human-level efficiency (arxiv.org)](https://arxiv.org/pdf/2305.19452.pdf)

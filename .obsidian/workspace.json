@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "815e7e97f7d49a1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e469e2951bdb5e9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0812d536cfc1f1b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2023-08-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9426d16f963290aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Training improvements/The Dormant Neuron Phenomenon in Deep Reinforcement Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7314e67218414bb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Episodic Learning/External Nonparametric Memory in Deep Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61d7779a8cca5b8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "43a321dcbbab85f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b7bfa58503a9ecc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f2d42e77cfc7fbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b50abd58aedc079b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36333e4a680e5dc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c65981aad830277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20d5b0b11ff78668",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Episodic Learning/External Nonparametric Memory in Deep Learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ddf8fbbf27306a43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Episodic Learning/External Nonparametric Memory in Deep Learning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99e344fa243a9106",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c1fb66ee290b6b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Episodic Learning/External Nonparametric Memory in Deep Learning.md"
+              }
+            }
+          },
+          {
+            "id": "bb1c2b9fa6006fbc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6b7bfa58503a9ecc",
+  "lastOpenFiles": [
+    "README.md",
+    "Episodic Learning/Graph Backup Data Efficient Backup Exploiting Markovian Data.md",
+    "Episodic Learning/External Nonparametric Memory in Deep Learning.md",
+    "Episodic Learning/Atari 100k.md",
+    "Episodic Learning/TODO.md",
+    "Episodic Learning/Fast and Data Efficient Reinforcement Learning from Pixels via Non-Parametric Value Approximation.md",
+    "Episodic Learning/Model-Free Episodic Control.md",
+    "Episodic Learning/Neural Episodic Control.md",
+    "Training improvements/The Dormant Neuron Phenomenon in Deep Reinforcement Learning.md",
+    "Episodic Learning",
+    "Pruning/Optimal brain damage.md",
+    "Pruning/Overview.md",
+    "Our Ideas.md",
+    "Continual learning/Loss of Plasticity in Continual Deep Reinforcement Learning.md",
+    "RL Models/An Image is Worth 16x16 Words Transformers for Image Recognition at Scale.md",
+    "Notes/2023-08-08.md",
+    "imgs/Pasted image 20230808155959.png",
+    "imgs",
+    "Continual learning/Overview.md",
+    "Training improvements/ReLU to the Rescue Improve Your On-Policy Actor-Critic with Positive Advantages.md",
+    "Continual learning/Supervised Pretraining Can Learn In-Context Reinforcement Learning.md",
+    "Continual learning/Progressive Reinforcement Learning with Distillation for Multi-Skilled Motion Control.md",
+    "Continual learning/Progress Compress A scalable framework for continual learning.md",
+    "Continual learning/Overview - Episodic Memory.md",
+    "Continual learning/Overcoming Catastrophic Interference by Conceptors.md",
+    "Continual learning/Overcoming catastrophic forgetting in neural networks.md",
+    "Continual learning/Lifelong Machine Learning Systems Beyond Learning Algorithms.md",
+    "Continual learning/Learning without Forgetting.md",
+    "Continual learning/iCaRL Incremental Classifier and Representation Learning.md",
+    "Notes",
+    "Very closely related to my work/Untitled",
+    "Very closely related to my work",
+    "Continual learning",
+    "Untitled.canvas",
+    "Meta Learning",
+    "RL Models",
+    "Training improvements/Maintaining Capacity",
+    "Training improvements/Pruning/Untitled.canvas",
+    "Pruning"
+  ]
+}

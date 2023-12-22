@@ -1,0 +1,5 @@
+[(PDF) Spectral Normalisation for Deep Reinforcement Learning: An Optimisation Perspective (2021) | Florin Gogianu | 4 Citations (typeset.io)](https://typeset.io/papers/spectral-normalisation-for-deep-reinforcement-learning-an-71bes5hgtv)
+
+The contributions of this paper are showing that spectral normalization can improve the performance of deep reinforcement learning algorithms on Atari games, providing code for reproducibility, investigating the role of spectral normalization, and emphasizing the importance of studying the learning dynamics of neural networks in deep reinforcement learning.
+
+The limitations of this paper include that spectral normalization can lead to degraded behavior when normalizing more than half of the number of layers in a depth-5 network. Additionally, the paper only investigates the effect of spectral normalization on the Atari domain and does not explore its effect on other domains. Finally, the paper does not provide a theoretical analysis of the effect of spectral normalization on deep reinforcement learning.

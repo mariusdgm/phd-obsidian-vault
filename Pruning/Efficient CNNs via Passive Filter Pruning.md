@@ -1,0 +1,9 @@
+[[PDF] Efficient CNNs via Passive Filter Pruning | Semantic Scholar](https://www.semanticscholar.org/paper/Efficient-CNNs-via-Passive-Filter-Pruning-Singh-Plumbley/83bb559408460885567745290005f98d8662f193)
+
+Convolutional neural networks (CNNs) have shown state-of-the-art performance in various applications. However, CNNs are resource-hungry due to their requirement of high computational complexity and memory storage.
+
+Recent efforts toward achieving computational efficiency in CNNs involve filter pruning methods that eliminate some of the filters in CNNs based on the “importance” of the filters. The majority of existing filter pruning methods are either “active”, which use a dataset and generate feature maps to quantify filter importance, or “passive”, which compute filter importance using entry-wise norm of the filters without involving data.
+
+Under a high pruning ratio where large number of filters are to be pruned from the network, the entry-wise norm methods eliminate relatively smaller norm filters without considering the significance of the filters in producing the node output, resulting in degradation in the performance.
+
+To address this, we present a passive filter pruning method where the filters are pruned based on their contribution in producing output by considering the operator norm of the filters. The proposed pruning method generalizes better across various CNNs compared to that of the entry-wise norm-based pruning methods. In comparison to the existing active filter pruning methods, the proposed pruning method is at least 4.5 times faster in computing filter importance and is able to achieve similar performance compared to that of the active filter pruning methods. The efficacy of the proposed pruning method is evaluated on audio scene classification and image classification using various CNNs architecture such as VGGish, DCASE21 Net, VGG-16 and ResNet-50

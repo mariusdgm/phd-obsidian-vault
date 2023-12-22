@@ -1,0 +1,11 @@
+[[2306.01460] ReLU to the Rescue: Improve Your On-Policy Actor-Critic with Positive Advantages (arxiv.org)](https://arxiv.org/abs/2306.01460)
+
+This paper introduces a novel method for enhancing the effectiveness of on-policy Deep Reinforcement Learning (DRL) algorithms. Three surprisingly simple modifications to the A3C algorithm: (1) processing advantage estimates through a ReLU function, (2) spectral normalization, and (3) dropout, serve to not only improve efficacy but also yield a "cautious" DRL algorithm. Where on-policy algorithms such as Proximal Policy Optimization (PPO) and Asynchronous Advantage Actor-Critic (A3C) do not explicitly account for cautious interaction with the environment, our method integrates caution in two critical ways: (1) by maximizing a lower bound on the value function plus a constant, thereby promoting a \textit{conservative value estimation}, and (2) by incorporating Thompson sampling for cautious exploration. In proving that our algorithm maximizes the lower bound, we also ground Regret Matching Policy Gradients (RMPG), a discrete-action on-policy method for multi-agent reinforcement learning. Our rigorous empirical evaluations across various benchmarks demonstrate our approach's improved performance against existing on-policy algorithms. This research represents a substantial step towards efficacious and cautious DRL algorithms, which are needed to unlock applications to complex, real-world problems.
+
+incorporating cautious interaction
+
+through simple modifications to the A3C algorithm, optimizes a lower bound on value plus a constant and integrates exploration via Thompson sampling
+
+theoretical justification for our approach by demonstrating that our algorithm optimizes this lower bound
+
+Our empirical evaluations across several diverse benchmarks confirm our approach’s improved performance compared to existing on-policy algorithms. Although achieving sufficiently cautious algorithmic interaction with the world remains a distant goal, our research constitutes a significant stride toward this objective.

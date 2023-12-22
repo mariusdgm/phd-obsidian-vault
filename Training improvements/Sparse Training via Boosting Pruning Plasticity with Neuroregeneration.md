@@ -1,0 +1,14 @@
+
+[[PDF] Sparse Training via Boosting Pruning Plasticity with Neuroregeneration | Semantic Scholar](https://www.semanticscholar.org/paper/Sparse-Training-via-Boosting-Pruning-Plasticity-Liu-Chen/a85ba5bb3e97c999f5f6dbc78f277b107af1dba2)
+
+Works on lottery ticket hypothesis (LTH) and single-shot network pruning (SNIP) have raised a lot of attention currently on post-training pruning (iterative magnitude pruning), and before-training pruning (pruning at initialization). The former method suffers from an extremely large computation cost and the latter usually struggles with insufficient performance. In comparison, during-training pruning, a class of pruning methods that simultaneously enjoys the training/inference efficiency and the comparable performance, temporarily, has been less explored. To better understand during-training pruning, we quantitatively study the effect of pruning throughout training from the perspective of pruning plasticity (the ability of the pruned networks to recover the original performance). Pruning plasticity can help explain several other empirical observations about neural network pruning in literature. We further find that pruning plasticity can be substantially improved by injecting a brain-inspired mechanism called neuroregeneration, i.e., to regenerate the same number of connections as pruned. We design a novel gradual magnitude pruning (GMP) method, named gradual pruning with zero-cost neuroregeneration (\textbf{GraNet}), that advances state of the art. Perhaps most impressively, its sparse-to-sparse version for the first time boosts the sparse-to-sparse training performance over various dense-to-sparse methods with ResNet-50 on ImageNet without extending the training time. We release all codes in [https://github.com/Shiweiliuiiiiiii/GraNet](https://github.com/Shiweiliuiiiiiii/GraNet).
+
+In this paper, we re-emphasize the merit of during-training pruning. Compared with the recently  
+proposed works, i.e., LTH and SNIP, during-training pruning is an efficient yet performant class of  
+pruning methods that have received much less attention. We quantitatively study pruning during  
+training from the perspective of pruning plasticity. Inspired by the findings from pruning plasticity  
+and the mechanism of neuroregeneration in the nervous system, we further proposed a novel sparse training method, GraNet, that performs the cost-free connection regeneration during training. GraNet  
+advances the state of the art in both dense-to-sparse training and sparse-to-sparse training.  
+Our paper re-emphasizes the great potential of during-training pruning in reducing the train-  
+ing/inference resources required by ML models without sacrificing accuracy. It has a significant envi-  
+ronmental impact on reducing the energy cost of the ML models and CO2 emissions.

@@ -1,0 +1,11 @@
+[[1706.08840] Gradient Episodic Memory for Continual Learning (arxiv.org)](https://arxiv.org/abs/1706.08840)
+
+One major obstacle towards AI is the poor ability of models to solve new problems quicker, and without forgetting previously acquired knowledge. To better understand this issue, we study the problem of continual learning, where the model observes, once and one by one, examples concerning a sequence of tasks. First, we propose a set of metrics to evaluate models learning over a continuum of data. These metrics characterize models not only by their test accuracy, but also in terms of their ability to transfer knowledge across tasks. Second, we propose a model for continual learning, called Gradient Episodic Memory (GEM) that alleviates forgetting, while allowing beneficial transfer of knowledge to previous tasks. Our experiments on variants of the MNIST and CIFAR-100 datasets demonstrate the strong performance of GEM when compared to the state-of-the-art.
+
+
+Instead of storing examples, gradients of the previous task are stored, such that at any point in time the gradients of all tasks except the current one can be used to form a trust region that prevents forgetting. Such methods can be effective against catastrophic forgetting, provided a good mechanism for the selection of relevant experience is proposed. An inherent problem is the constraint on the amount of experience that can be stored in memory, which could quickly become a limiting factor in large scale problems.
+
+Work that tries to overcome this: 
+[[Continual Learning with Deep Generative Replay]]]
+
+[[Lifelong Machine Learning Systems Beyond Learning Algorithms]]

@@ -1,0 +1,3 @@
+[[1707.04853] Overcoming Catastrophic Interference by Conceptors (arxiv.org)](https://arxiv.org/abs/1707.04853)
+
+Catastrophic interference has been a major roadblock in the research of continual learning. Here we propose a variant of the back-propagation algorithm, "conceptor-aided back-prop" (CAB), in which gradients are shielded by conceptors against degradation of previously learned tasks. Conceptors have their origin in reservoir computing, where they have been previously shown to overcome catastrophic forgetting. CAB extends these results to deep feedforward networks. On the disjoint MNIST task CAB outperforms two other methods for coping with catastrophic interference that have recently been proposed in the deep learning field.
