@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training improvements/The Dormant Neuron Phenomenon in Deep Reinforcement Learning.md",
+                "file": "Training Improvements/The Dormant Neuron Phenomenon in Deep Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,12 +35,8 @@
             "id": "7314e67218414bb9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Episodic Learning/External Nonparametric Memory in Deep Learning.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Episodic Learning/External Nonparametric Memory in Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Episodic Learning/External Nonparametric Memory in Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Episodic Learning/External Nonparametric Memory in Deep Learning.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,46 +173,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b7bfa58503a9ecc",
+  "active": "7314e67218414bb9",
   "lastOpenFiles": [
-    "README.md",
+    "Episodic Learning/Unsupervised Learning of Object Keypoints for Perception and Control.md",
     "Episodic Learning/Graph Backup Data Efficient Backup Exploiting Markovian Data.md",
-    "Episodic Learning/External Nonparametric Memory in Deep Learning.md",
-    "Episodic Learning/Atari 100k.md",
-    "Episodic Learning/TODO.md",
-    "Episodic Learning/Fast and Data Efficient Reinforcement Learning from Pixels via Non-Parametric Value Approximation.md",
     "Episodic Learning/Model-Free Episodic Control.md",
     "Episodic Learning/Neural Episodic Control.md",
-    "Training improvements/The Dormant Neuron Phenomenon in Deep Reinforcement Learning.md",
+    "Episodic Learning/TODO.md",
+    "Exploration Improvements/Deep Reinforcement Learning at the Edge of the Statistical Precipice.md",
+    "Exploration Improvements/Probabilistic Inference in Reinforcement Learning Done Right.md",
+    "Episodic Learning/Episodic Memory for Learning Subjective-Timescale Models.md",
+    "Episodic Learning/Fast and Data Efficient Reinforcement Learning from Pixels via Non-Parametric Value Approximation.md",
+    "Episodic Learning/DeepAveragers Offline Reinforcement Learning by Solving Derived Non-Parametric MDPs Aayam Shrestha, Stefan Lee, Prasad Tadepalli, Alan Fern.md",
+    "Episodic Learning/External Nonparametric Memory in Deep Learning.md",
+    "Exploration Improvements",
+    "README.md",
+    "Episodic Learning/Atari 100k.md",
+    "Training Improvements/The Dormant Neuron Phenomenon in Deep Reinforcement Learning.md",
     "Episodic Learning",
     "Pruning/Optimal brain damage.md",
     "Pruning/Overview.md",
     "Our Ideas.md",
-    "Continual learning/Loss of Plasticity in Continual Deep Reinforcement Learning.md",
+    "Continual Learning/Loss of Plasticity in Continual Deep Reinforcement Learning.md",
     "RL Models/An Image is Worth 16x16 Words Transformers for Image Recognition at Scale.md",
     "Notes/2023-08-08.md",
     "imgs/Pasted image 20230808155959.png",
     "imgs",
-    "Continual learning/Overview.md",
-    "Training improvements/ReLU to the Rescue Improve Your On-Policy Actor-Critic with Positive Advantages.md",
-    "Continual learning/Supervised Pretraining Can Learn In-Context Reinforcement Learning.md",
-    "Continual learning/Progressive Reinforcement Learning with Distillation for Multi-Skilled Motion Control.md",
-    "Continual learning/Progress Compress A scalable framework for continual learning.md",
-    "Continual learning/Overview - Episodic Memory.md",
-    "Continual learning/Overcoming Catastrophic Interference by Conceptors.md",
-    "Continual learning/Overcoming catastrophic forgetting in neural networks.md",
-    "Continual learning/Lifelong Machine Learning Systems Beyond Learning Algorithms.md",
-    "Continual learning/Learning without Forgetting.md",
-    "Continual learning/iCaRL Incremental Classifier and Representation Learning.md",
+    "Continual Learning/Overview.md",
+    "Training Improvements/ReLU to the Rescue Improve Your On-Policy Actor-Critic with Positive Advantages.md",
+    "Continual Learning/Supervised Pretraining Can Learn In-Context Reinforcement Learning.md",
+    "Continual Learning/Progressive Reinforcement Learning with Distillation for Multi-Skilled Motion Control.md",
+    "Continual Learning/Progress Compress A scalable framework for continual learning.md",
+    "Continual Learning/Overview - Episodic Memory.md",
     "Notes",
     "Very closely related to my work/Untitled",
     "Very closely related to my work",
-    "Continual learning",
+    "Continual Learning",
     "Untitled.canvas",
     "Meta Learning",
     "RL Models",
     "Training improvements/Maintaining Capacity",
-    "Training improvements/Pruning/Untitled.canvas",
-    "Pruning"
+    "Training improvements/Pruning/Untitled.canvas"
   ]
 }
