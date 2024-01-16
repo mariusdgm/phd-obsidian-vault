@@ -35,8 +35,12 @@
             "id": "7314e67218414bb9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Episodic Learning/MLP Queries Graph Label Input Graph Queries Memory Layer Conv MEMORY-BASED GRAPH NETWORKS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Episodic Learning/MLP Queries Graph Label Input Graph Queries Memory Layer Conv MEMORY-BASED GRAPH NETWORKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Episodic Learning/MLP Queries Graph Label Input Graph Queries Memory Layer Conv MEMORY-BASED GRAPH NETWORKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Episodic Learning/MLP Queries Graph Label Input Graph Queries Memory Layer Conv MEMORY-BASED GRAPH NETWORKS.md"
+              }
             }
           },
           {
@@ -175,20 +183,26 @@
   },
   "active": "7314e67218414bb9",
   "lastOpenFiles": [
-    "Episodic Learning/Unsupervised Learning of Object Keypoints for Perception and Control.md",
-    "Episodic Learning/Graph Backup Data Efficient Backup Exploiting Markovian Data.md",
-    "Episodic Learning/Model-Free Episodic Control.md",
+    "Atari/Atari-5 Distilling the Arcade Learning Environment down to Five Games.md",
+    "Episodic Learning/MLP Queries Graph Label Input Graph Queries Memory Layer Conv MEMORY-BASED GRAPH NETWORKS.md",
+    "Pasted image 20240116211555.png",
+    "Episodic Learning/NEC_citations/MLP Queries Graph Label Input Graph Queries Memory Layer Conv.md",
+    "Atari",
     "Episodic Learning/Neural Episodic Control.md",
+    "Episodic Learning/NEC_citations",
+    "Episodic Learning/Unsupervised Learning of Object Keypoints for Perception and Control.md",
+    "Episodic Learning/Model-Free Episodic Control.md",
+    "Episodic Learning/Graph Backup Data Efficient Backup Exploiting Markovian Data.md",
+    "Episodic Learning/Fast and Data Efficient Reinforcement Learning from Pixels via Non-Parametric Value Approximation.md",
+    "Episodic Learning/External Nonparametric Memory in Deep Learning.md",
+    "Episodic Learning/Episodic Memory for Learning Subjective-Timescale Models.md",
+    "Episodic Learning/Atari 100k.md",
+    "Episodic Learning/DeepAveragers Offline Reinforcement Learning by Solving Derived Non-Parametric MDPs Aayam Shrestha, Stefan Lee, Prasad Tadepalli, Alan Fern.md",
     "Episodic Learning/TODO.md",
     "Exploration Improvements/Deep Reinforcement Learning at the Edge of the Statistical Precipice.md",
     "Exploration Improvements/Probabilistic Inference in Reinforcement Learning Done Right.md",
-    "Episodic Learning/Episodic Memory for Learning Subjective-Timescale Models.md",
-    "Episodic Learning/Fast and Data Efficient Reinforcement Learning from Pixels via Non-Parametric Value Approximation.md",
-    "Episodic Learning/DeepAveragers Offline Reinforcement Learning by Solving Derived Non-Parametric MDPs Aayam Shrestha, Stefan Lee, Prasad Tadepalli, Alan Fern.md",
-    "Episodic Learning/External Nonparametric Memory in Deep Learning.md",
     "Exploration Improvements",
     "README.md",
-    "Episodic Learning/Atari 100k.md",
     "Training Improvements/The Dormant Neuron Phenomenon in Deep Reinforcement Learning.md",
     "Episodic Learning",
     "Pruning/Optimal brain damage.md",
@@ -202,17 +216,12 @@
     "Continual Learning/Overview.md",
     "Training Improvements/ReLU to the Rescue Improve Your On-Policy Actor-Critic with Positive Advantages.md",
     "Continual Learning/Supervised Pretraining Can Learn In-Context Reinforcement Learning.md",
-    "Continual Learning/Progressive Reinforcement Learning with Distillation for Multi-Skilled Motion Control.md",
-    "Continual Learning/Progress Compress A scalable framework for continual learning.md",
-    "Continual Learning/Overview - Episodic Memory.md",
     "Notes",
     "Very closely related to my work/Untitled",
     "Very closely related to my work",
     "Continual Learning",
     "Untitled.canvas",
     "Meta Learning",
-    "RL Models",
-    "Training improvements/Maintaining Capacity",
     "Training improvements/Pruning/Untitled.canvas"
   ]
 }
