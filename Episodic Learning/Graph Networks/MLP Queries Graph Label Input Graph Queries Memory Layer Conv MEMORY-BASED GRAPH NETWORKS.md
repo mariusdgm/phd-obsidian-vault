@@ -4,4 +4,4 @@ Graph Neural Networks (GNNs) are a class of deep models that operates on data wi
 
 Unlike RNNs in which the memory is represented within the hidden states of the network, the explicit representation in the memory-augmented models helps them to store and retrieve longer-term memories with less parameters. The memory is usually implemented either as a differentiable neural dictionary (i.e., key-value memory) (e.g., neural episodic control (Pritzel et al., 2017) and product-key memory layers (Lample et al., 2019)) or a differentiable array (e.g., Neural Turing Machine (NTM) (Graves et al., 2014), prototypical networks (Snell et al., 2017), and memory networks (Weston et al., 2015)). Our memory layer consists of a multi-head array and a convolutional layer to aggregate the heads.
 
-Graph datasets, not Atari
+Graph datasets

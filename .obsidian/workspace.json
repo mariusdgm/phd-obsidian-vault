@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Episodic Learning/MLP Queries Graph Label Input Graph Queries Memory Layer Conv MEMORY-BASED GRAPH NETWORKS.md",
+                "file": "Episodic Learning/Uses NEC/Training Agents using Upside-Down Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Episodic Learning/MLP Queries Graph Label Input Graph Queries Memory Layer Conv MEMORY-BASED GRAPH NETWORKS.md",
+                "file": "Episodic Learning/Uses NEC/Training Agents using Upside-Down Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Episodic Learning/MLP Queries Graph Label Input Graph Queries Memory Layer Conv MEMORY-BASED GRAPH NETWORKS.md",
+                "file": "Episodic Learning/Uses NEC/Training Agents using Upside-Down Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Episodic Learning/MLP Queries Graph Label Input Graph Queries Memory Layer Conv MEMORY-BASED GRAPH NETWORKS.md"
+                "file": "Episodic Learning/Uses NEC/Training Agents using Upside-Down Reinforcement Learning.md"
               }
             }
           },
@@ -183,45 +183,45 @@
   },
   "active": "7314e67218414bb9",
   "lastOpenFiles": [
-    "Atari/Atari-5 Distilling the Arcade Learning Environment down to Five Games.md",
-    "Episodic Learning/MLP Queries Graph Label Input Graph Queries Memory Layer Conv MEMORY-BASED GRAPH NETWORKS.md",
-    "Pasted image 20240116211555.png",
-    "Episodic Learning/NEC_citations/MLP Queries Graph Label Input Graph Queries Memory Layer Conv.md",
-    "Atari",
-    "Episodic Learning/Neural Episodic Control.md",
-    "Episodic Learning/NEC_citations",
-    "Episodic Learning/Unsupervised Learning of Object Keypoints for Perception and Control.md",
-    "Episodic Learning/Model-Free Episodic Control.md",
-    "Episodic Learning/Graph Backup Data Efficient Backup Exploiting Markovian Data.md",
-    "Episodic Learning/Fast and Data Efficient Reinforcement Learning from Pixels via Non-Parametric Value Approximation.md",
-    "Episodic Learning/External Nonparametric Memory in Deep Learning.md",
-    "Episodic Learning/Episodic Memory for Learning Subjective-Timescale Models.md",
-    "Episodic Learning/Atari 100k.md",
-    "Episodic Learning/DeepAveragers Offline Reinforcement Learning by Solving Derived Non-Parametric MDPs Aayam Shrestha, Stefan Lee, Prasad Tadepalli, Alan Fern.md",
     "Episodic Learning/TODO.md",
-    "Exploration Improvements/Deep Reinforcement Learning at the Edge of the Statistical Precipice.md",
-    "Exploration Improvements/Probabilistic Inference in Reinforcement Learning Done Right.md",
+    "Episodic Learning/Uses NEC/Training Agents using Upside-Down Reinforcement Learning.md",
+    "Episodic Learning/Generalization of Reinforcement Learners with Working and Episodic Memory.md",
+    "Episodic Learning/Asynchronous Episodic Deep Deterministic Policy Gradient Toward Continuous Control in Computationally Complex Environments.md",
+    "Episodic Learning/Decoupling deep learning and reinforcement learning for stable and efficient deep policy gradient algorithms.md",
+    "Episodic Learning/Memory-Augmented Episodic Value Network.md",
+    "Episodic Learning/A Memory-Augmented Neural Network Model of Abstract Rule Learning.md",
+    "Episodic Learning/Episodic Policy Gradient Training.md",
+    "Episodic Learning/Uses NEC/Never Give Up Learning Directed Exploration Strategies.md",
+    "Episodic Learning/Atari related/Beating Atari with Natural Language Guided Reinforcement Learning.md",
+    "Episodic Learning/Uses NEC/Generative Temporal Models with Spatial Memory for Partially Observed Environments.md",
+    "Episodic Learning/Atari related/Exploration for Countering the Episodic Memory.md",
+    "Episodic Learning/Theoretically Principled Deep RL Acceleration via Nearest Neighbor Function Approximation.md",
+    "Episodic Learning/Meta-Learning in Spiking Neural Networks with Reward-Modulated STDP.md",
+    "Episodic Learning/State-based episodic memory for multi-agent reinforcement learning.md",
+    "Continual Learning/Memory-based Parameter Adaptation.md",
+    "Episodic Learning/Large-Scale Retrieval for Reinforcement Learning.md",
+    "Episodic Learning/Biology inspired/Replay in Deep Learning Current Approaches and Missing Biological Elements.md",
+    "Episodic Learning/Graph Networks/MEMORY-BASED GRAPH NETWORKS.md",
+    "Episodic Learning/Graph Networks/MLP Queries Graph Label Input Graph Queries Memory Layer Conv MEMORY-BASED GRAPH NETWORKS.md",
+    "Episodic Learning/Graph Networks/Sample-efficient deep reinforcement learning with directed associative graph.md",
+    "Episodic Learning/Graph Networks/Set Transformer A Framework for Attention-based Permutation-Invariant Neural Networks.md",
+    "Episodic Learning/EPISODIC CURIOSITY THROUGH REACHABILITY.md",
+    "Episodic Learning/Biology inspired/A neural network model of when to retrieve and encode episodic memories.md",
+    "Episodic Learning/Biology inspired",
+    "Episodic Learning/Atari related/On the Role of Weight Sharing During Deep Option Learning.md",
+    "Episodic Learning/Atari related/BOOK Storing Algorithm-Invariant Episodes for Deep Reinforcement Learning.md",
+    "Episodic Learning/Atari related",
+    "Episodic Learning/Graph Networks",
+    "Pasted image 20240116211555.png",
+    "Atari",
+    "Episodic Learning/Uses NEC",
     "Exploration Improvements",
-    "README.md",
-    "Training Improvements/The Dormant Neuron Phenomenon in Deep Reinforcement Learning.md",
     "Episodic Learning",
-    "Pruning/Optimal brain damage.md",
-    "Pruning/Overview.md",
-    "Our Ideas.md",
-    "Continual Learning/Loss of Plasticity in Continual Deep Reinforcement Learning.md",
-    "RL Models/An Image is Worth 16x16 Words Transformers for Image Recognition at Scale.md",
-    "Notes/2023-08-08.md",
     "imgs/Pasted image 20230808155959.png",
     "imgs",
-    "Continual Learning/Overview.md",
-    "Training Improvements/ReLU to the Rescue Improve Your On-Policy Actor-Critic with Positive Advantages.md",
-    "Continual Learning/Supervised Pretraining Can Learn In-Context Reinforcement Learning.md",
     "Notes",
     "Very closely related to my work/Untitled",
-    "Very closely related to my work",
-    "Continual Learning",
     "Untitled.canvas",
-    "Meta Learning",
     "Training improvements/Pruning/Untitled.canvas"
   ]
 }

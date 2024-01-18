@@ -1,0 +1,7 @@
+[[PDF] Replay in Deep Learning: Current Approaches and Missing Biological Elements | Semantic Scholar](https://www.semanticscholar.org/paper/Replay-in-Deep-Learning%3A-Current-Approaches-and-Hayes-Krishnan/80e8d5944dc367fa43626991515519fdfd9eb540)
+
+Abstract Replay is the reactivation of one or more neural patterns that are similar to the activation patterns experienced during past waking experiences. Replay was first observed in biological neural networks during sleep, and it is now thought to play a critical role in memory formation, retrieval, and consolidation. 
+
+Replay-like mechanisms have been incorporated in deep artificial neural networks that learn over time to avoid catastrophic forgetting of previous knowledge. Replay algorithms have been successfully used in a wide range of deep learning methods within supervised, unsupervised, and reinforcement learning paradigms. 
+
+In this letter, we provide the first comprehensive comparison between replay in the mammalian brain and replay in artificial neural networks. We identify multiple aspects of biological replay that are missing in deep learning systems and hypothesize how they could be used to improve artificial neural networks.

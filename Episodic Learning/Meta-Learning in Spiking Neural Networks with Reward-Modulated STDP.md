@@ -1,0 +1,9 @@
+
+[[PDF] Meta-Learning in Spiking Neural Networks with Reward-Modulated STDP | Semantic Scholar](https://www.semanticscholar.org/paper/Meta-Learning-in-Spiking-Neural-Networks-with-STDP-Khoee-Javaheri/166bac00cc0abc8d706689c0764596eda8d213b4)
+
+  
+The human brain constantly learns and rapidly adapts to new situations by integrating acquired knowledge and experiences into memory. Developing this capability in machine learning models is considered an important goal of AI research since deep neural networks perform poorly when there is limited data or when they need to adapt quickly to new unseen tasks. 
+
+Meta-learning models are proposed to facilitate quick learning in low-data regimes by employing absorbed information from the past. Although some models have recently been introduced that reached high-performance levels, they are not biologically plausible. We have proposed a bio-plausible meta-learning model inspired by the hippocampus and the prefrontal cortex using spiking neural networks with a reward-based learning system. 
+
+Our proposed model includes a memory designed to prevent catastrophic forgetting, a phenomenon that occurs when meta-learning models forget what they have learned as soon as the new task begins. Also, our new model can easily be applied to spike-based neuromorphic devices and enables fast learning in neuromorphic hardware. The final analysis will discuss the implications and predictions of the model for solving few-shot classification tasks. In solving these tasks, our model has demonstrated the ability to compete with the existing state-of-the-art meta-learning techniques.

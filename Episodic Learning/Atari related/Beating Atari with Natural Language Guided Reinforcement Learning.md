@@ -1,0 +1,4 @@
+[[PDF] Beating Atari with Natural Language Guided Reinforcement Learning | Semantic Scholar](https://www.semanticscholar.org/paper/Beating-Atari-with-Natural-Language-Guided-Learning-Kaplan-Sauer/4248b1c782d1e3e3b53a5126ea269518af92c68a)
+
+We introduce the first deep reinforcement learning agent that learns to beat Atari games with the aid of natural language instructions. The agent uses a multimodal embedding between environment observations and natural language to self-monitor progress through a list of English instructions, granting itself reward for completing instructions in addition to increasing the game score. Our agent significantly outperforms Deep Q-Networks (DQNs), Asynchronous Advantage Actor-Critic (A3C) agents, and the best agents posted to OpenAI Gym on what is often considered the hardest Atari 2600 environment: Montezuma's Revenge.
+

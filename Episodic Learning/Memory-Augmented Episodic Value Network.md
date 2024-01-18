@@ -1,0 +1,5 @@
+[Memory-Augmented Episodic Value Network | Semantic Scholar](https://www.semanticscholar.org/paper/Memory-Augmented-Episodic-Value-Network-Zeng-Xing/c251ec1dfd2d21ef08a409f53149cdbd00899184)
+
+In this paper, we propose memory-augmented episodic value network (M-EVN) to learn a differentiable planning-based policy with episodic memory in maze games. 
+
+The episodic memory module associates the environmental state to its corresponding state value function, and outputs a weighted sum of state value functions with similar states to improve the agents’ navigation performance in partially observable mazes. In addition, we introduce a Net-in-Net architecture to make M-EVN differentiable by error backpropagation and learn an explicit planning computation. We train M-EVN in 2D maze games, and the experimental results show that the M-EVN agent outperforms the original value iteration network (VIN) in the partially observable maze games.
