@@ -1,3 +1,0 @@
-[[1703.01988] Neural Episodic Control (arxiv.org)](https://arxiv.org/abs/1703.01988)
-
-In this work we shall focus on addressing the three concerns listed above; we must note, however, that other recent advances in exploration (Osband et al., 2016), hierarchical reinforcement learning (Vezhnevets et al., 2016) and transfer learning (Rusu et al., 2016; Fernando et al., 2017) also make substantial contributions to improving data efficiency in deep reinforcement learning over baseline agents

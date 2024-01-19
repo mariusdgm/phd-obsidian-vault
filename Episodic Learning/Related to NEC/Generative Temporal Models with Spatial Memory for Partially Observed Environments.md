@@ -6,9 +6,4 @@ In this work we introduce a novel action-conditioned generative model of such ch
 
 The result is a scalable architecture capable of performing coherent predictions over hundreds of time steps across a range of partially observed 2D and 3D environments.
 
-
-While exploring the environment,  
-at each time step we store the position of the agent and  
-the corresponding visual information in a Differentiable  
-Neural Dictionary (DND) (Pritzel et al., 2017), a scalable  
-non-parametric memory developed for episodic control.
+While exploring the environment,  at each time step we store the position of the agent and  the corresponding visual information in a Differentiable  Neural Dictionary (DND) (Pritzel et al., 2017), a scalable non-parametric memory developed for episodic control.
